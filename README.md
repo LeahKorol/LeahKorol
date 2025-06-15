@@ -1,16 +1,9 @@
-### Hi there 👋
+<h1 align="center">I'm Leah Korol</h1>
+<h3 align="center">Software Engineering Student</h3>
 
-<!--
-**leah-try/leah-try** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Skills:
+[![My Skills](https://skillicons.dev/icons?i=python,django,c,cpp,java,git,github,vscode&perline=4)](https://skillicons.dev)
+___
+### Let’s Connect
+<a href="https://www.linkedin.com/in/leahkorol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leah-korol" height="30" width="40" /></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning software emgineering
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
